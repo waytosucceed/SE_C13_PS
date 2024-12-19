@@ -1,0 +1,234 @@
+{
+  "heading": "Addition and Subtraction of decimals",
+  "topics": [
+    {
+      "heading": "Addition and Subtraction of decimals",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is 0.52 equivalent to?",
+          "options": [
+            { "text": "0.052" },
+            { "text": "0.502" },
+            { "text": "0.0520" },
+            { "text": "0.520" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 2,
+          "question": "In the decimal 0.456, what is the place value of 5?",
+          "options": [
+            { "text": "Tenths" },
+            { "text": "Hundredths" },
+            { "text": "Thousandths" },
+            { "text": "None of the above" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "Which decimal is greater: 0.305 or 0.35?",
+          "options": [
+            { "text": "0.305" },
+            { "text": "0.35" },
+            { "text": "Both are equal" },
+            { "text": "Cannot be determined" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the following numbers is the smallest:<br> 0.502, 0.520, 0.052, 0.5020?",
+          "options": [
+            { "text": "0.502" },
+            { "text": "0.520" },
+            { "text": "0.052" },
+            { "text": "0.5020" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "Arrange these decimals in ascending order:<br> 0.305, 0.350, 0.035, 3.05",
+          "options": [
+            { "text": "0.035, 0.305, 0.350, 3.05" },
+            { "text": "0.305, 0.035, 0.350, 3.05" },
+            { "text": "3.05, 0.350, 0.305, 0.035" },
+            { "text": "0.350, 0.305, 0.035, 3.05" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "What is the result of adding 0.243 to 1.762?",
+          "options": [
+            { "text": "2.005" },
+            { "text": "1.995" },
+            { "text": "2.015" },
+            { "text": "2.015" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "Subtract 0.568 from 3.214.",
+          "options": [
+            { "text": "2.656" },
+            { "text": "2.643" },
+            { "text": "2.646" },
+            { "text": "2.546" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "What is the sum of 2.08 and 0.922?",
+          "options": [
+            { "text": "2.902" },
+            { "text": "3.002" },
+            { "text": "3.0" },
+            { "text": "2.902" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "What is the result of adding 0.145 to 0.855?",
+          "options": [
+            { "text": "1.000" },
+            { "text": "0.990" },
+            { "text": "1.010" },
+            { "text": "1.100" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 10,
+          "question": "Subtract 0.333 from 1.333.",
+          "options": [
+            { "text": "0.999" },
+            { "text": "1.000" },
+            { "text": "1.001" },
+            { "text": "1.010" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "Calculate the sum of 0.75 and 0.375.",
+          "options": [
+            { "text": "1.902" },
+            { "text": "1.125" },
+            { "text": "1.0" },
+            { "text": "2.902" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "What is 12.5 minus 1.245?",
+          "options": [
+            { "text": "11.255" },
+            { "text": "11.25" },
+            { "text": "11.205" },
+            { "text": "11.355" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "Subtract 12.005 and 0.600.",
+          "options": [
+            { "text": "11.504" },
+            { "text": "11.405" },
+            { "text": "11.54" },
+            { "text": "11.542" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "Subtract 0.101 from 0.303.",
+          "options": [
+            { "text": "0.2" },
+            { "text": "0.202" },
+            { "text": "0.2001" },
+            { "text": "0.2000" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "What is the result of subtracting 0.264 from 2.000?",
+          "options": [
+            { "text": "1.730" },
+            { "text": "1.740" },
+            { "text": "1.736" },
+            { "text": "1.735" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "If you buy a snack for $1.25 and a drink for $2.15, how much did you spend in total?",
+          "options": [
+            { "text": "$3.40" },
+            { "text": "$3.30" },
+            { "text": "$3.35" },
+            { "text": "$3.50" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "A car uses 12.35 liters of gasoline on one day and 13.67 liters the next day. How much gasoline did it use in total?",
+          "options": [
+            { "text": "26.02 liters" },
+            { "text": "25.02 liters" },
+            { "text": "26.12 liters" },
+            { "text": "26.1 liters" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "If you have $50.50 and spend $8.08, how much money do you have left?",
+          "options": [
+            { "text": "$42.40" },
+            { "text": "$42.52" },
+            { "text": "$42.42" },
+            { "text": "$42.32" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "If the temperature was 7.056°C at midnight and dropped by 1.067°C by noon, what was the temperature at noon?",
+          "options": [
+            { "text": "6.986°C" },
+            { "text": "5.99°C" },
+            { "text": "6.0°C" },
+            { "text": "5.989°C" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 20,
+          "question": "A lab technician needs to add 2.75 mL of a chemical and 0.056 mL of another. What is the total volume of chemicals used?",
+          "options": [
+            { "text": "2.80 mL" },
+            { "text": "2.806 mL" },
+            { "text": "2.81 mL" },
+            { "text": "2.805 mL" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+      
+      
+    }
+  ]
+}
